@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+*.log
+*.csv
+chromedriver.exe
+
+# System files
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+
+# Virtual environments
+venv/
+env/
