@@ -56,9 +56,9 @@ A lightweight Python tool that scrapes product listings from Amazon based on a s
 
 The resulting CSV file includes:
 
-| Product Description | Price | Ratings |
-| ------------------- | ----- | ------- |
-| Example Title       | 25.99 | 1400    |
+| Product Description | Price | Ratings | Product Link                                                           |
+| ------------------- | ----- | ------- | ---------------------------------------------------------------------- |
+| Example Title       | 25.99 | 1400    | [https://www.amazon.com/dp/example](https://www.amazon.com/dp/example) |
 
 ---
 
