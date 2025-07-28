@@ -96,8 +96,3 @@ This scraper is intended for **educational purposes only**. Please use it respon
 This project is open-source and available under the [MIT License](LICENSE).
 
 ```
-
----
-
-Let me know if you'd like a version with screenshots or if you want to include a demo CSV preview.
-```
